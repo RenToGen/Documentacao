@@ -1,0 +1,142 @@
+{
+	"id": "88cb38ad-02ea-447c-760d-a0b64ea35f68",
+	"name": "task6",
+	"description": "",
+	"order": [
+		"dde5ff2e-e330-0d27-1ae3-388db325cd4b",
+		"cbda46cd-5de5-db5f-d55c-35257237699c",
+		"bbc84a85-8a46-0d31-8999-e946aacb852e",
+		"0b37c827-20bf-e2f8-ec35-be81e6e6bf4e"
+	],
+	"folders": [],
+	"folders_order": [],
+	"timestamp": 1633447391595,
+	"owner": "17642498",
+	"public": false,
+	"requests": [
+		{
+			"id": "0b37c827-20bf-e2f8-ec35-be81e6e6bf4e",
+			"headers": "Content-Type: application/json\n",
+			"headerData": [
+				{
+					"key": "Content-Type",
+					"value": "application/json",
+					"description": "",
+					"enabled": true
+				}
+			],
+			"url": "localhost:8080/produto/1",
+			"queryParams": [],
+			"pathVariables": {},
+			"pathVariableData": [],
+			"preRequestScript": null,
+			"method": "DELETE",
+			"collectionId": "88cb38ad-02ea-447c-760d-a0b64ea35f68",
+			"data": [],
+			"dataMode": "raw",
+			"name": "localhost:8080/produto/1",
+			"description": "",
+			"descriptionFormat": "html",
+			"time": 1633447654933,
+			"version": 2,
+			"responses": [],
+			"tests": null,
+			"currentHelper": "normal",
+			"helperAttributes": {},
+			"rawModeData": "\n{\n\t\t\"id\" : 1,\n        \"nomeServico\": \"faço ediçoes de video para instagram \",\n        \"apresentacao\": \"oi eu sou a kefera o dominador de planetas, nao entendo nada disso vegeta é do naruto?\",\n        \"categoria\": {\n            \"id\": 1\n        }\n    }"
+		},
+		{
+			"id": "bbc84a85-8a46-0d31-8999-e946aacb852e",
+			"headers": "Content-Type: application/json\n",
+			"headerData": [
+				{
+					"key": "Content-Type",
+					"value": "application/json",
+					"description": "",
+					"enabled": true
+				}
+			],
+			"url": "localhost:8080/produto",
+			"queryParams": [],
+			"pathVariables": {},
+			"pathVariableData": [],
+			"preRequestScript": null,
+			"method": "PUT",
+			"collectionId": "88cb38ad-02ea-447c-760d-a0b64ea35f68",
+			"data": [],
+			"dataMode": "raw",
+			"name": "localhost:8080/produto",
+			"description": "",
+			"descriptionFormat": "html",
+			"time": 1633447579841,
+			"version": 2,
+			"responses": [],
+			"tests": null,
+			"currentHelper": "normal",
+			"helperAttributes": {},
+			"rawModeData": "\n{\n\t\t\"id\" : 1,\n        \"nomeServico\": \"faço ediçoes de video para instagram \",\n        \"apresentacao\": \"oi eu sou a kefera o dominador de planetas, nao entendo nada disso vegeta é do naruto?\",\n        \"categoria\": {\n            \"id\": 1\n        }\n    }"
+		},
+		{
+			"id": "cbda46cd-5de5-db5f-d55c-35257237699c",
+			"headers": "Content-Type: application/json\n",
+			"headerData": [
+				{
+					"key": "Content-Type",
+					"value": "application/json",
+					"description": "",
+					"enabled": true
+				}
+			],
+			"url": "localhost:8080/produto",
+			"queryParams": [],
+			"pathVariables": {},
+			"pathVariableData": [],
+			"preRequestScript": null,
+			"method": "POST",
+			"collectionId": "88cb38ad-02ea-447c-760d-a0b64ea35f68",
+			"data": [],
+			"dataMode": "raw",
+			"name": "localhost:8080/produto",
+			"description": "",
+			"descriptionFormat": "html",
+			"time": 1633447434151,
+			"version": 2,
+			"responses": [],
+			"tests": null,
+			"currentHelper": "normal",
+			"helperAttributes": {},
+			"rawModeData": "\n{\n  \n        \"nomeServico\": \"faço ediçoes de video\",\n        \"apresentacao\": \"oi eu sou o vegeta o dominador de planetas, nao entendo nada disso vegeta é do naruto?\",\n        \"categoria\": {\n            \"id\": 1\n        }\n    }"
+		},
+		{
+			"id": "dde5ff2e-e330-0d27-1ae3-388db325cd4b",
+			"headers": "Content-Type: application/json\n",
+			"headerData": [
+				{
+					"key": "Content-Type",
+					"value": "application/json",
+					"description": "",
+					"enabled": true
+				}
+			],
+			"url": "http://localhost:8080/produto",
+			"queryParams": [],
+			"pathVariables": {},
+			"pathVariableData": [],
+			"preRequestScript": null,
+			"method": "GET",
+			"collectionId": "88cb38ad-02ea-447c-760d-a0b64ea35f68",
+			"data": [],
+			"dataMode": "raw",
+			"name": "http://localhost:8080/produto",
+			"description": "",
+			"descriptionFormat": "html",
+			"time": 1633448220323,
+			"version": 2,
+			"responses": [],
+			"tests": null,
+			"currentHelper": "normal",
+			"helperAttributes": {},
+			"rawModeData": "\n{\n  \n        \"nomeServico\": \"faço ediçoes de video\",\n        \"apresentacao\": \"oi eu sou o vegeta o dominador de planetas, nao entendo nada disso vegeta é do naruto?\",\n        \"categoria\": {\n            \"id\": 1\n        }\n    }"
+		}
+	]
+}
