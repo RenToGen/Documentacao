@@ -3,11 +3,11 @@
  
 
      
-[![GitHub contribuidores](https://img.shields.io/github/contributors/RenToGen/Documentacao?color=black&style=plastic)](https://github.com/RenToGen/Documentacao)
+[![GitHub contribuidores](https://img.shields.io/github/contributors/RenToGen/Documentacao?color=black&style=plastic)](https://github.com/RenToGen/Documentacao/graphs/contributors)
 
 
 
-[![GitHub contributors](https://img.shields.io/github/last-commit/RenToGen/Documentacao?color=black)](https://github.com/RenToGen/Documentacao)
+[![Último commit](https://img.shields.io/github/last-commit/RenToGen/Documentacao?color=black)](https://github.com/RenToGen/Documentacao)
 
 
 <hr size="3">
