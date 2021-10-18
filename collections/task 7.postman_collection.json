@@ -1,0 +1,305 @@
+{
+	"info": {
+		"_postman_id": "bb661996-1ce8-4566-bcc7-c2688d8fb8d4",
+		"name": "task 7",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json"
+	},
+	"item": [
+		{
+			"name": "http://localhost:8080/usuarios/cadastrar",
+			"request": {
+				"method": "POST",
+				"header": [
+					{
+						"key": "Authorization",
+						"value": "Basic Z3JhZWJpbjoxMjM0NTY=",
+						"type": "text",
+						"disabled": true
+					},
+					{
+						"key": "Authorization",
+						"value": "Basic Z3JhZWJpbjoxMjM0NTY=",
+						"type": "text",
+						"disabled": true
+					}
+				],
+				"body": {
+					"mode": "raw",
+					"raw": "\r\n    {\r\n    \"nome\": \"Felipe Graebin\",\r\n    \"usuario\": \"felipegraebin@teste.com\",\r\n    \"tipoCadastro\": \"1\",\r\n    \"senha\": \"123456789\"\r\n    }\r\n",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "http://localhost:8080/usuarios/cadastrar",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"port": "8080",
+					"path": [
+						"usuarios",
+						"cadastrar"
+					]
+				},
+				"description": "Cadastra nome 1"
+			},
+			"response": []
+		},
+		{
+			"name": "http://localhost:8080/usuarios/cadastrar",
+			"request": {
+				"method": "POST",
+				"header": [
+					{
+						"key": "Authorization",
+						"value": "Basic Z3JhZWJpbjoxMjM0NTY=",
+						"type": "text",
+						"disabled": true
+					},
+					{
+						"key": "Authorization",
+						"value": "Basic Z3JhZWJpbjoxMjM0NTY=",
+						"type": "text",
+						"disabled": true
+					}
+				],
+				"body": {
+					"mode": "raw",
+					"raw": "    {\r\n    \"nome\": \"Beatriz Rodrigues\",\r\n    \"usuario\": \"beatrizrodrigues@teste.com\",\r\n    \"tipoCadastro\": \"1\",\r\n    \"senha\": \"123456789\"\r\n    }",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "http://localhost:8080/usuarios/cadastrar",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"port": "8080",
+					"path": [
+						"usuarios",
+						"cadastrar"
+					]
+				},
+				"description": "Adiciona nome 2"
+			},
+			"response": []
+		},
+		{
+			"name": "http://localhost:8080/usuarios/cadastrar",
+			"request": {
+				"method": "POST",
+				"header": [
+					{
+						"key": "Authorization",
+						"value": "Basic Z3JhZWJpbjoxMjM0NTY=",
+						"type": "text",
+						"disabled": true
+					},
+					{
+						"key": "Authorization",
+						"value": "Basic Z3JhZWJpbjoxMjM0NTY=",
+						"type": "text",
+						"disabled": true
+					}
+				],
+				"body": {
+					"mode": "raw",
+					"raw": "    {\r\n    \"nome\": \"Tiago Assis\",\r\n    \"usuario\": \"tiagoassis@teste.com\",\r\n    \"tipoCadastro\": \"1\",\r\n    \"senha\": \"123456789\"\r\n    }",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "http://localhost:8080/usuarios/cadastrar",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"port": "8080",
+					"path": [
+						"usuarios",
+						"cadastrar"
+					]
+				},
+				"description": "Adiciona nome 3\r\n"
+			},
+			"response": []
+		},
+		{
+			"name": "http://localhost:8080/usuarios/cadastrar",
+			"request": {
+				"method": "POST",
+				"header": [
+					{
+						"key": "Authorization",
+						"value": "Basic Z3JhZWJpbjoxMjM0NTY=",
+						"type": "text",
+						"disabled": true
+					},
+					{
+						"key": "Authorization",
+						"value": "Basic Z3JhZWJpbjoxMjM0NTY=",
+						"type": "text",
+						"disabled": true
+					}
+				],
+				"body": {
+					"mode": "raw",
+					"raw": "    {\r\n    \"nome\": \"Gustavo Victor\",\r\n    \"usuario\": \"gustavovictor@teste.com\",\r\n    \"tipoCadastro\": \"1\",\r\n    \"senha\": \"123456789\"\r\n    }\r\n",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "http://localhost:8080/usuarios/cadastrar",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"port": "8080",
+					"path": [
+						"usuarios",
+						"cadastrar"
+					]
+				},
+				"description": "Adiciona nome 4"
+			},
+			"response": []
+		},
+		{
+			"name": "http://localhost:8080/usuarios/cadastrar",
+			"request": {
+				"method": "POST",
+				"header": [
+					{
+						"key": "Authorization",
+						"value": "Basic Z3JhZWJpbjoxMjM0NTY=",
+						"type": "text",
+						"disabled": true
+					},
+					{
+						"key": "Authorization",
+						"value": "Basic Z3JhZWJpbjoxMjM0NTY=",
+						"type": "text",
+						"disabled": true
+					}
+				],
+				"body": {
+					"mode": "raw",
+					"raw": "    {\r\n    \"nome\": \"Karen Rodrigues\",\r\n    \"usuario\": \"karenrodrigues@teste.com\",\r\n    \"tipoCadastro\": \"1\",\r\n    \"senha\": \"123456789\"\r\n    }",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "http://localhost:8080/usuarios/cadastrar",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"port": "8080",
+					"path": [
+						"usuarios",
+						"cadastrar"
+					]
+				},
+				"description": "Adiciona nome 5"
+			},
+			"response": []
+		},
+		{
+			"name": "http://localhost:8080/usuarios/logar",
+			"request": {
+				"method": "POST",
+				"header": [
+					{
+						"key": "Authorization",
+						"value": "Basic Z3JhZWJpbjoxMjM0NTY=",
+						"type": "text",
+						"disabled": true
+					},
+					{
+						"key": "Authorization",
+						"value": "Basic Z3JhZWJpbjoxMjM0NTY=",
+						"type": "text",
+						"disabled": true
+					}
+				],
+				"body": {
+					"mode": "raw",
+					"raw": "\r\n    {\r\n    \"usuario\": \"felipegraebin@teste.com\",\r\n    \"senha\": \"123456789\"\r\n    }\r\n",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "http://localhost:8080/usuarios/logar",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"port": "8080",
+					"path": [
+						"usuarios",
+						"logar"
+					]
+				},
+				"description": "Logar"
+			},
+			"response": []
+		},
+		{
+			"name": "http://localhost:8080/produto",
+			"protocolProfileBehavior": {
+				"disableBodyPruning": true
+			},
+			"request": {
+				"method": "GET",
+				"header": [
+					{
+						"key": "Authorization",
+						"value": "Basic ZmVsaXBlZ3JhZWJpbkB0ZXN0ZS5jb206MTIzNDU2Nzg5",
+						"type": "text"
+					}
+				],
+				"body": {
+					"mode": "raw",
+					"raw": "\r\n    {\r\n    \"usuario\": \"felipegraebin@teste.com\",\r\n    \"senha\": \"123456789\"\r\n    }\r\n",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "http://localhost:8080/produto",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"port": "8080",
+					"path": [
+						"produto"
+					]
+				},
+				"description": "Faz get de produtos, com token de autorização"
+			},
+			"response": []
+		}
+	]
+}
