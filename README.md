@@ -32,5 +32,9 @@ Como este é um documento ativo, alterações podem ocorrer a qualquer momento.
 
 1. [Back-End](https://github.com/RenToGen/Back-End)<br>
     1.1. [Spring Boot](https://github.com/RenToGen/Back-End/tree/main/spring)<br>
-    1.2. [Banco de Dados](https://github.com/RenToGen/Back-End/tree/main/bancoDeDados)
-2. [Front-End](https://github.com/RenToGen/Front-End)
+    1.2. [Banco de Dados](https://github.com/RenToGen/Back-End/tree/main/bancoDeDados)<br>
+    1.3. [Deploy](https://github.com/RenToGen/deploy_BackEnd)
+2. [Front-End](https://github.com/RenToGen/Front-End)<br>
+    2.1. [Deploy](https://github.com/RenToGen/deploy-front)
+3. [Site Oficial](https://rentogen.netlify.app/)
+4. [Saiba Mais sobre os idealizadores](https://linktr.ee/rentogen)
